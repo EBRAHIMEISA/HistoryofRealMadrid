@@ -1,0 +1,56 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-attachment: fixed;
+  background-image: url(O.jpg);
+  background-repeat: repeat;
+  line-height: 30px;
+
+
+}
+h1 {
+  text-align: left;
+  color: #22e6e0;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color:black;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+}
+.image {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.caption {
+  font-size: 14px;
+  font-style: italic;
+  text-align: center;
+  background-color: white;
+}
+p {
+    color:greenyellow ;
+}
+h2{
+    color: #22e6e0;
+}
+.R{
+    width: 1445px;
+    height: 500px;
+}
+.P{
+    height: 300px;
+    width: 400px;
+    float: left;
+     margin-right: 10px;
+        float: right;
+      }
+h3{
+    color: #22e6e0;
+}
+
+
+
